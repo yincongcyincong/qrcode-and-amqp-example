@@ -1,0 +1,5 @@
+qrcode 可以用 composer解除依赖关系 基本上所有的php框架都有composer
+用png方法就能生成png格式的图片
+
+
+amqp是rabbitmq在php上的一个扩展，好像也能用composer在框架上解除依赖，正在实验，此例子在扩展和服务安装成功后在linux成功运行

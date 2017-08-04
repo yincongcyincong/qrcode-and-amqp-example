@@ -3,3 +3,7 @@ qrcode 可以用 composer解除依赖关系 基本上所有的php框架都有com
 
 
 amqp是rabbitmq在php上的一个扩展，好像也能用composer在框架上解除依赖，正在实验，此例子在扩展和服务安装成功后在linux成功运行
+
+rabbitmq.php是一个rabbit生成的延时队列，用phpamqplib为基础类进行编写
+主要是x-message-ttl这些参数怎么形成
+注意写入文件的权限
